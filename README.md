@@ -1,4 +1,4 @@
-## Olá eu sou o Enrico 👋 Seja bem-vido(a) ao meu perfil ❤️
+## Olá eu sou o Enrico 👋 Seja bem-vindo(a) ao meu perfil ❤️
 
 <div align="center">
   <a href="https://github.com/enricofs">

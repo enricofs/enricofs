@@ -1,6 +1,6 @@
 ## Olá eu sou o Enrico 👋 Seja bem-vido(a) ao meu perfil ❤️
 
-<div style="display: inline_block" align="center">
+<div style="display: flex" align="center">
   <a href="https://github.com/enricofs">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=enricofs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enricofs&layout=compact&langs_count=7&theme=dark"/>

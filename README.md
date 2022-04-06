@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/enricofs">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=enricofs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enricofs&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=enricofs&show_icons=true&icon_color=407AFF&theme=dark&include_all_commits=true&count_private=true$hide_border=false"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enricofs&layout=compact&langs_count=7&theme=dark$hide_border=false"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rico-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -13,6 +13,8 @@
 </div>
 
 <!--
+407AFF
+
 **enricofs/enricofs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

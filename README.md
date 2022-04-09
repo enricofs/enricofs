@@ -1,8 +1,13 @@
 ## Olá eu sou o Enrico 👋 Seja bem-vindo(a) ao meu perfil ❤️
 
 Atualmente estou no ensino médio com tecnico em Desenvolvimento de Sistemas. Buscando sempre evoluir no mundo da programação.
-- No momento estudo JavaScript e PHP.
-- Pode me chamar! Vou adorar aprender com você e ensinar o pouco que sei.
+- 📚 No momento estudo JavaScript e PHP.
+- 📞 Pode me chamar! Vou adorar aprender com você e ensinar o pouco que sei.
+
+<div> 
+  <a href = "mailto:enricoferreiradossantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/enrico-ferreira-dos-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br><br>
+</div>
 
 <div align="center">
   <a href="https://github.com/enricofs">

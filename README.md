@@ -1,5 +1,9 @@
 ## Olá eu sou o Enrico 👋 Seja bem-vindo(a) ao meu perfil ❤️
 
+Atualmente estou no ensino médio com tecnico em Desenvolvimento de Sistemas. Buscando sempre evoluir no mundo da programação :)
+- No momento estudo JavaScript e PHP.
+- Pode me chamar! Vou adorar aprender com você e ensinar o pouco que sei.
+
 <div align="center">
   <a href="https://github.com/enricofs">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=enricofs&show_icons=true&icon_color=407AFF&theme=dark&include_all_commits=true&count_private=true"/>

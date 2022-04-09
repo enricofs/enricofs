@@ -5,8 +5,15 @@ Atualmente estou no ensino médio com tecnico em Desenvolvimento de Sistemas. Bu
 - 📞 Pode me chamar! Vou adorar aprender com você e ensinar o pouco que sei.
 
 <div> 
-  <a href = "mailto:enricoferreiradossantos@gmail.com"><img alt="Rico-Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/enrico-ferreira-dos-santos/" target="_blank"><img alt="Rico-LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br><br>
+   <a href="https://github.com/enricofs" target="_blank">
+    <img alt="Rico-Github" src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=Github&logoColor=white">
+   </a>
+   <a href = "mailto:enricoferreiradossantos@gmail.com" target="_blank">
+     <img alt="Rico-Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red">
+   </a>
+   <a href="https://www.linkedin.com/in/enrico-ferreira-dos-santos/" target="_blank">
+     <img alt="Rico-LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+   </a> <br><br>
 </div>
 
 <div align="center">

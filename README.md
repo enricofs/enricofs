@@ -1,6 +1,6 @@
 ## Olá eu sou o Enrico 👋 Seja bem-vindo(a) ao meu perfil ❤️
 
-Atualmente estou no ensino médio com tecnico em Desenvolvimento de Sistemas. Buscando sempre evoluir no mundo da programação :)
+Atualmente estou no ensino médio com tecnico em Desenvolvimento de Sistemas. Buscando sempre evoluir no mundo da programação.
 - No momento estudo JavaScript e PHP.
 - Pode me chamar! Vou adorar aprender com você e ensinar o pouco que sei.
 

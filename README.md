@@ -5,8 +5,8 @@ Atualmente estou no ensino médio com tecnico em Desenvolvimento de Sistemas. Bu
 - 📞 Pode me chamar! Vou adorar aprender com você e ensinar o pouco que sei.
 
 <div> 
-  <a href = "mailto:enricoferreiradossantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/enrico-ferreira-dos-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br><br>
+  <a href = "mailto:enricoferreiradossantos@gmail.com"><img alt="Rico-Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/enrico-ferreira-dos-santos/" target="_blank"><img alt="Rico-LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br><br>
 </div>
 
 <div align="center">
@@ -20,20 +20,4 @@ Atualmente estou no ensino médio com tecnico em Desenvolvimento de Sistemas. Bu
   <img align="center" alt="Rico-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rico-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
 </div>
-
-<!--
-407AFF
-
-**enricofs/enricofs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  

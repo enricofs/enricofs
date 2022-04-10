@@ -1,6 +1,6 @@
 ## Olá eu sou o Enrico 👋 Seja bem-vindo(a) ao meu perfil ❤️
 
-<p style="display: flex; align-items: flex-end;">
+<p style="display: flex; align-items: flex-end; !important">
 Atualmente estou no ensino médio com tecnico em Desenvolvimento de Sistemas. Buscando sempre evoluir no mundo da programação. <br>
 - 📚 No momento estudo JavaScript e PHP. <br>
 - 📞 Pode me chamar! Vou adorar aprender com você e ensinar o pouco que sei. <br>

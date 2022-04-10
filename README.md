@@ -1,8 +1,12 @@
 ## Olá eu sou o Enrico 👋 Seja bem-vindo(a) ao meu perfil ❤️
 
-Atualmente estou no ensino médio com tecnico em Desenvolvimento de Sistemas. Buscando sempre evoluir no mundo da programação.
-- 📚 No momento estudo JavaScript e PHP.
+<p style="display: flex; align-items: flex-end;">
+Atualmente estou no ensino médio com tecnico em Desenvolvimento de Sistemas. Buscando sempre evoluir no mundo da programação. <br>
+- 📚 No momento estudo JavaScript e PHP. <br>
 - 📞 Pode me chamar! Vou adorar aprender com você e ensinar o pouco que sei.
+
+<img alt="Rico-gif-programming" style="width: 200px;" src="https://media.giphy.com/media/wsYKILoHeDrfrBRc1f/giphy.gif">
+</p>
 
 <div> 
    <a href="https://github.com/enricofs" target="_blank">

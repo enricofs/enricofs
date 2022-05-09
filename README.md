@@ -24,10 +24,18 @@ Atualmente estou no ensino médio com tecnico em Desenvolvimento de Sistemas. Bu
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=enricofs&show_icons=true&icon_color=407AFF&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enricofs&layout=compact&langs_count=4&theme=dark"/>
 </div>
+   
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,git">
+  </a>
+</p>
+
+<!--
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rico-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rico-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rico-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rico-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
 </div>
-  
+-->  

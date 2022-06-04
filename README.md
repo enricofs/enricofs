@@ -1,6 +1,6 @@
 ## Olá eu sou o Enrico 👋 Seja bem-vindo(a) ao meu perfil ❤️
 
-<img alt="Rico-gif-programming"  align="right" width="190em" src="https://media.giphy.com/media/xQNUljwfbST8zJeS8y/giphy.gif">
+<img alt="Rico-gif-programming"  align="right" width="190" src="https://media.giphy.com/media/xQNUljwfbST8zJeS8y/giphy.gif">
 
 Atualmente estou no ensino médio com tecnico em Desenvolvimento de Sistemas. Buscando sempre evoluir no mundo da programação. <br>
 - 📚 No momento estudo JavaScript e PHP. <br>

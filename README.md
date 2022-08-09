@@ -4,7 +4,7 @@
 
 Atualmente estou no ensino médio com tecnico em Desenvolvimento de Sistemas. Buscando sempre evoluir no mundo da programação. <br>
 - 📚 No momento estudo JavaScript e PHP. <br>
-- 📞 Pode me chamar! Vou adorar aprender com você e ensinar o pouco que sei. <br><br><br>
+- 📞 Pode me chamar! Vou adorar aprender com você e ensinar um pouco do que sei. <br><br><br>
 
 
 <div> 

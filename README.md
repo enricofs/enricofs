@@ -27,7 +27,7 @@ Atualmente estou no ensino médio com tecnico em Desenvolvimento de Sistemas. Bu
    
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,git">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,git,github,vscode">
   </a>
 </p>
 

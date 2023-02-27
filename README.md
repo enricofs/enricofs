@@ -2,16 +2,15 @@
 
 <img alt="Rico-gif-programming"  align="right" width="190" src="https://media.giphy.com/media/xQNUljwfbST8zJeS8y/giphy.gif">
 
-Olá! Sou um entusiasta de tecnologia que está em busca de oportunidades no mercado de trabalho, em especial na área de TI e programação. Com formação em Técnico em Desenvolvimento e Sistemas, tenho conhecimentos sólidos em programação e desenvolvimento web, com experiência em linguagens como HTML, CSS, JavaScript e PHP.
+Olá! Sou um entusiasta de tecnologia que está em busca de oportunidades no mercado de trabalho 👨‍💻, em especial na área de TI e programação. Com formação em 🎓 Técnico em Desenvolvimento de Sistemas, tenho conhecimentos sólidos em programação e desenvolvimento web, com experiência em linguagens como HTML, CSS, JavaScript e PHP.
 
-Já participei de projetos acadêmicos em programação com foco em acessibilidade, onde pude aprender a importância de criar soluções tecnológicas inclusivas e que atendam a diversos públicos. Como desenvolvedor web, sou apaixonado por criar soluções criativas e funcionais que possam melhorar a experiência do usuário, inclusive para aqueles que possuem algum tipo de deficiência.
+Já participei de projetos acadêmicos em programação com foco em acessibilidade ⭐, onde pude aprender a importância de criar soluções tecnológicas inclusivas e que atendam a diversos públicos. Como desenvolvedor web, sou apaixonado por criar soluções criativas e funcionais que possam melhorar a experiência do usuário, inclusive para aqueles que possuem algum tipo de deficiência.
 
-Meu objetivo é sempre entregar projetos de alta qualidade, que atendam aos requisitos do cliente e que sejam eficientes e escaláveis. Sou uma pessoa proativa e comprometida, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Tenho facilidade em trabalhar em equipe, colaborando com colegas para alcançar os objetivos do projeto. Além disso, possuo habilidades de comunicação e de resolução de problemas, o que me permite lidar com desafios complexos de forma eficiente.
+Meu objetivo é sempre entregar projetos de alta qualidade 🚀, que atendam aos requisitos do cliente e que sejam eficientes e escaláveis. Sou uma pessoa proativa e comprometida, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Tenho facilidade em trabalhar em equipe, colaborando com colegas para alcançar os objetivos do projeto. Além disso, possuo habilidades de comunicação e de resolução de problemas, o que me permite lidar com desafios complexos de forma eficiente.
 
-Estou em busca de oportunidades desafiadoras que me permitam aplicar minhas habilidades em programação e desenvolvimento web, contribuindo para projetos inovadores e de alta qualidade. Se você está procurando um desenvolvedor web apaixonado e dedicado, sinta-se à vontade para entrar em contato comigo!
+Estou em busca de oportunidades desafiadoras que me permitam aplicar minhas habilidades em programação e desenvolvimento web, contribuindo para projetos inovadores e de alta qualidade. Se você está procurando um desenvolvedor web apaixonado e dedicado, sinta-se à vontade para entrar em contato 📞 comigo!
 
-- 📞 Pode me chamar! Vou adorar aprender com você e ensinar o que sei. <br><br><br>
-
+<br><br>
 
 <div> 
    <a href="https://github.com/enricofs" target="_blank">

@@ -8,7 +8,7 @@ Já participei de projetos acadêmicos em programação com foco em acessibilida
 
 Meu objetivo é sempre entregar projetos de alta qualidade 🚀, que atendam aos requisitos do cliente e que sejam eficientes e escaláveis. Sou uma pessoa proativa e comprometida, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Tenho facilidade em trabalhar em equipe, colaborando com colegas para alcançar os objetivos do projeto. Além disso, possuo habilidades de comunicação e de resolução de problemas, o que me permite lidar com desafios complexos de forma eficiente.
 
-Estou em busca de oportunidades desafiadoras que me permitam aplicar minhas habilidades em programação e desenvolvimento web, contribuindo para projetos inovadores e de alta qualidade. Se você está procurando um desenvolvedor web apaixonado e dedicado, sinta-se à vontade para entrar em contato 📞 comigo!
+Estou em busca de oportunidades desafiadoras que me permitam aplicar minhas habilidades em programação e desenvolvimento web, contribuindo para projetos inovadores e de alta qualidade. Se você está procurando um desenvolvedor web apaixonado e dedicado, sinta-se à vontade para entrar em contato comigo! 📞
 
 <br><br>
 

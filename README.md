@@ -2,13 +2,13 @@
 
 <img alt="Rico-gif-programming"  align="right" width="190" src="https://media.giphy.com/media/xQNUljwfbST8zJeS8y/giphy.gif">
 
-Olá! Sou um entusiasta de tecnologia que está em busca de oportunidades no mercado de trabalho 👨‍💻, em especial na área de TI e programação. Com formação em 🎓 Técnico em Desenvolvimento de Sistemas, tenho conhecimentos sólidos em programação e desenvolvimento web, com experiência em linguagens como HTML, CSS, JavaScript e PHP.
+Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec e técnico em Desenvolvimento de Sistemas. Apaixonado por tecnologia, tenho como foco constante me desenvolver na área da comunicação, buscando sempre aprimorar minha habilidade de transmitir informações de maneira clara e objetiva.
 
-Já participei de projetos acadêmicos em programação com foco em acessibilidade ⭐, onde pude aprender a importância de criar soluções tecnológicas inclusivas e que atendam a diversos públicos. Como desenvolvedor web, sou apaixonado por criar soluções criativas e funcionais que possam melhorar a experiência do usuário, inclusive para aqueles que possuem algum tipo de deficiência.
+Com grande afinidade por trabalhar em equipe, gosto de discutir ideias e aprender com a experiência dos outros, pois acredito que o compartilhamento de conhecimento é essencial para o crescimento coletivo.
 
-Meu objetivo é sempre entregar projetos de alta qualidade 🚀, que atendam aos requisitos do cliente e que sejam eficientes e escaláveis. Sou uma pessoa proativa e comprometida, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Tenho facilidade em trabalhar em equipe, colaborando com colegas para alcançar os objetivos do projeto. Além disso, possuo habilidades de comunicação e de resolução de problemas, o que me permite lidar com desafios complexos de forma eficiente.
+Possuo conhecimento em diversas tecnologias, como HTML, CSS, JavaScript, Python e Java, e estou sempre em busca de me atualizar e aprimorar minhas habilidades.
 
-Estou em busca de oportunidades desafiadoras que me permitam aplicar minhas habilidades em programação e desenvolvimento web, contribuindo para projetos inovadores e de alta qualidade. Se você está procurando um desenvolvedor web apaixonado e dedicado, sinta-se à vontade para entrar em contato comigo! 📞
+Durante meu curso técnico, desenvolvi um projeto com foco em acessibilidade para pessoas com deficiência que desejavam ingressar no mercado de trabalho. Esse projeto foi apresentado na Campus Party Brasil e me proporcionou um grande aprendizado em relação à diversidade, tecnologia, boas práticas de desenvolvimento e aos Objetivos de Desenvolvimento Sustentável. Além disso, participei de diversos projetos acadêmicos, inclusive liderando alguns deles, o que me proporcionou ainda mais experiência e segurança em lidar com desafios e tomar decisões assertivas.
 
 <br><br>
 

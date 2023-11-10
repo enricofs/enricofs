@@ -12,15 +12,12 @@ Durante meu curso técnico, desenvolvi um projeto com foco em acessibilidade par
 
 <br><br>
 
-<div> 
+<div align="center"> 
    <a href="https://github.com/enricofs" target="_blank">
     <img alt="Rico-Github" src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=Github&logoColor=white">
    </a>
-   <a href = "mailto:enricoferreiradossantos@gmail.com" target="_blank">
-     <img alt="Rico-Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red">
-   </a>
    <a href="https://www.linkedin.com/in/enrico-ferreira-dos-santos/" target="_blank">
-     <img alt="Rico-LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+     <img alt="Rico-LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white">
    </a> <br><br>
 </div>
 

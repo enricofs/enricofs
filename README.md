@@ -2,13 +2,15 @@
 
 <img alt="Rico-gif-programming"  align="right" width="190" src="https://media.giphy.com/media/xQNUljwfbST8zJeS8y/giphy.gif">
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec e técnico em Desenvolvimento de Sistemas. Apaixonado por tecnologia, tenho como foco constante me desenvolver na área da comunicação, buscando sempre aprimorar minha habilidade de transmitir informações de maneira clara e objetiva.
+Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec, e técnico em Desenvolvimento de Sistemas. Apaixonado por tecnologia, tenho como foco constante me desenvolver na área da comunicação, buscando sempre aprimorar minhas habilidades de transmitir informações de maneira clara e objetiva.
 
-Com grande afinidade por trabalhar em equipe, gosto de discutir ideias e aprender com a experiência dos outros, pois acredito que o compartilhamento de conhecimento é essencial para o crescimento coletivo.
+Com grande afinidade por trabalhar em equipe, gosto de discutir ideias e aprender com as experiências, pois acredito que o compartilhamento de conhecimento é essencial para o crescimento da equipe.
 
-Possuo conhecimento em diversas tecnologias, como HTML, CSS, JavaScript, Python e Java, e estou sempre em busca de me atualizar e aprimorar minhas habilidades.
+Possuo conhecimento em tecnologias, como HTML, CSS, JavaScript, Python, Java, SQL, Git e GitHub, e estou sempre em busca de me atualizar e aprimorar minhas habilidades nesse mercado em constante mudança. Sou focado em resultados e gosto de aprender coisas novas.
 
 Durante meu curso técnico, desenvolvi um projeto com foco em acessibilidade para pessoas com deficiência que desejavam ingressar no mercado de trabalho. Esse projeto foi apresentado na Campus Party Brasil e me proporcionou um grande aprendizado em relação à diversidade, tecnologia, boas práticas de desenvolvimento e aos Objetivos de Desenvolvimento Sustentável. Além disso, participei de diversos projetos acadêmicos, inclusive liderando alguns deles, o que me proporcionou ainda mais experiência e segurança em lidar com desafios e tomar decisões assertivas.
+
+Recentemente participei de um dos maiores eventos de jogos e tecnologia, a Gamescom Latam, e fiz parte da equipe de apoio dos estandes de realidade virtual e aumentada, onde tive contato direto com resolução de problemas, trabalho em equipe e comunicação com o cliente.
 
 <br><br>
 
